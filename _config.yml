@@ -28,7 +28,7 @@ github_username:  FernandAdam
 instagram_username: projektwerkstatt.freiraum
 facebook_username: freiraumbadhersfeld
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
