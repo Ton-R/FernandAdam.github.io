@@ -2,6 +2,7 @@
 layout: post
 title: "Eroeffnung des neuen Freiraums"
 date: 2020-08-6 10:00:00 +0200
-categories: normal
+image: 02.jpg
+tag: Treffen
 ---
-Das ist ein Beispielpost fuer die neue Website. Man kann dort verschiedene Dinge eintragen und Events erstellen.
+Der Freiraum wird an der Goetzbertstrasse X bald wieder starten. Da es aber neue Raeume und dadurch auch neue Gelegenheiten ergeben, brauchen wir Unterstuetzung! Jeder ist willkommen. Das naechste Treffen ist am XX.XX.
